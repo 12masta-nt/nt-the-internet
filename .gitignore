@@ -1,0 +1,10 @@
+tests/config.yaml
+tests/evidence/
+.sass-cache
+*.swp
+.DS_Store
+vendor/*
+.rbenv-version
+.ruby-version
+.rvmrc
+Gemfile.lock
